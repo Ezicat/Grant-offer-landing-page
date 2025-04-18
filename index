@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Writing Diasporan • Academic Grant Support</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <!-- Hero Section -->
+  <section class="bg-white py-16">
+    <div class="container mx-auto text-center px-6">
+      <h1 class="text-4xl font-extrabold mb-4">Secure Funding for Graduate &amp; Post‑Doctoral Trainees</h1>
+      <p class="text-lg mb-8">Writing Diasporan’s new Grant Support Program helps Canadian professors unlock NSERC, Mitacs Accelerate, and Mitacs Elevate funding to grow your research team.</p>
+      <a href="#contact" class="bg-blue-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-700">Book a Free Consultation</a>
+    </div>
+  </section>
+
+  <!-- Grants Overview -->
+  <section class="py-12">
+    <div class="container mx-auto px-6">
+      <h2 class="text-3xl font-bold text-center mb-10">Our Funding Streams</h2>
+      <div class="grid gap-8 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+        <!-- NSERC Discovery -->
+        <div class="bg-white p-6 rounded-2xl shadow">
+          <h3 class="text-2xl font-semibold mb-3">NSERC Discovery Grants</h3>
+          <p class="mb-4">Long‑term support for your research program—covering stipends, equipment, and lab costs. Ideal for recruiting Masters, PhD, and post‑doc fellows.</p>
+          <ul class="list-disc list-inside mb-4">
+            <li>Up to 5 years of funding</li>
+            <li>Supports ongoing research programs</li>
+            <li>Funds trainee stipends &amp; operational costs</li>
+          </ul>
+        </div>
+        <!-- Mitacs Accelerate -->
+        <div class="bg-white p-6 rounded-2xl shadow">
+          <h3 class="text-2xl font-semibold mb-3">Mitacs Accelerate</h3>
+          <p class="mb-4">15‑week internships for graduate students &amp; post‑docs, co‑funded with industry partners—$15K per intern.</p>
+          <ul class="list-disc list-inside mb-4">
+            <li>150+ industry collaborators</li>
+            <li>Flexible project scope</li>
+            <li>Ideal for applied research</li>
+          </ul>
+        </div>
+        <!-- Mitacs Elevate -->
+        <div class="bg-white p-6 rounded-2xl shadow">
+          <h3 class="text-2xl font-semibold mb-3">Mitacs Elevate</h3>
+          <p class="mb-4">Two‑year post‑doctoral fellowships ($60K/yr) with structured professional development and industry collaboration.</p>
+          <ul class="list-disc list-inside mb-4">
+            <li>Dedicated professional curriculum</li>
+            <li>Partnership with industry partner</li>
+            <li>Two‑year term, $120K total</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Process Section -->
+  <section class="bg-white py-12">
+    <div class="container mx-auto px-6">
+      <h2 class="text-3xl font-bold text-center mb-8">Our Proven Process</h2>
+      <div class="space-y-8 max-w-4xl mx-auto">
+        <div class="flex items-start">
+          <div class="mr-4 text-blue-600 text-2xl font-bold">1.</div>
+          <div>
+            <h4 class="text-xl font-semibold">Discovery &amp; Strategy</h4>
+            <p>We convene a kickoff call to understand your research priorities, team needs, and timeline.</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <div class="mr-4 text-blue-600 text-2xl font-bold">2.</div>
+          <div>
+            <h4 class="text-xl font-semibold">Program Matching</h4>
+            <p>We map your objectives to NSERC Discovery, Mitacs Accelerate, and Elevate requirements, ensuring the strongest fit.</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <div class="mr-4 text-blue-600 text-2xl font-bold">3.</div>
+          <div>
+            <h4 class="text-xl font-semibold">Proposal Development</h4>
+            <p>Our expert writers draft a compelling narrative, detailed budget, and letters of support—tailored to the funder’s rubric.</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <div class="mr-4 text-blue-600 text-2xl font-bold">4.</div>
+          <div>
+            <h4 class="text-xl font-semibold">Review &amp; Submission</h4>
+            <p>We conduct iterative reviews with your team, finalize materials, and manage the online submission process.</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <div class="mr-4 text-blue-600 text-2xl font-bold">5.</div>
+          <div>
+            <h4 class="text-xl font-semibold">Post‑Submission Support</h4>
+            <p>We track application status, respond to program queries, and prepare you for reviews or interviews.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing & CTA -->
+  <section id="contact" class="py-16">
+    <div class="container mx-auto text-center px-6">
+      <h2 class="text-3xl font-bold mb-4">Comprehensive Fee</h2>
+      <p class="mb-6">All-inclusive grant writing service for NSERC Discovery, Mitacs Accelerate, and Elevate applications.</p>
+      <div class="inline-block bg-white p-8 rounded-2xl shadow-lg">
+        <p class="text-4xl font-extrabold mb-4">CAD 3,500 <span class="text-xl font-normal">(+ taxes)</span></p>
+        <p class="mb-6"><em>Limited‑time 10% early‑sign up discount</em></p>
+        <a href="mailto:eco@writingdiasporan.com?subject=Grant%20Support%20Inquiry" class="bg-blue-600 text-white px-8 py-3 rounded-xl font-semibold hover:bg-blue-700">Get Started</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-200 py-8">
+    <div class="container mx-auto text-center text-gray-600 px-6">
+      <p>Writing Diasporan • Your Partner in Academic Success</p>
+      <p><a href="mailto:eco@writingdiasporan.com" class="hover:underline">eco@writingdiasporan.com</a> • +1 555‑123‑4567</p>
+    </div>
+  </footer>
+</body>
+</html>
